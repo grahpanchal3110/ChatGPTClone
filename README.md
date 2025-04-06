@@ -18,8 +18,6 @@ JavaScript (ES6)
 
 🔹 Easy to extend with OpenAI API in future
 
-📸 Screenshots
-Desktop View	Mobile View
 🚀 Live Demo 
 🔗 View Live => https://grahchatgpt.netlify.app/
 
